@@ -3,7 +3,8 @@
 
 The transformative power of LLMs has led me to realize that the days of relying solely on traditional "if else" statements are numbered. In this dynamic landscape, where innovation is constant, embracing new methodologies is key to staying ahead. The AI field has broadened my horizons, offering a diverse array of tools and techniques that accelerate application development and unlock possibilities that were once unimaginable.
 
-Feel free to delve into my GitHub repositories, where I embark on groundbreaking projects and share my journey of leveraging cutting-edge technologies to drive meaningful change. Let's collaborate and push the boundaries of what's achievable in the ever-evolving tech ecosystem!
+Feel free to delve into my GitHub repositories, where I embark on personal projects and share my journey of leveraging AI/LLM technologies to drive meaningful change. 
+Here you can find simple code to start learning and building LLM applications 
 
 ## Get in Touch:
 - 📫 How to reach me: https://www.linkedin.com/in/ppooboni
